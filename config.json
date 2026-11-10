@@ -1,6 +1,6 @@
 {
-  "serverHost": rizalians.mcsh.gg,
+  "serverHost": "rizalians.mcsh.gg",
   "serverPort": 25565,
-  "botUsername": ZEJI,
+  "botUsername": "ZEJI",
   "botChunk": 1
 }
